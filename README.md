@@ -97,7 +97,7 @@ Requisitos:
   - ViaCep API
 
 
-##Contribuição
+## Contribuição
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
   - Faça um fork do projeto
@@ -107,7 +107,7 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
   - Abra um Pull Request
 
 
-##Licença
+## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
 ##Contato
