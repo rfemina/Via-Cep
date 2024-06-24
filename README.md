@@ -76,7 +76,7 @@ O projeto segue a arquitetura MVC (Model-View-Controller), entretanto com as nom
     - res/
       - layout/
         - activity_main.xml
-
+```
 ## Objetivos
 
 Objetivo Principal:
