@@ -8,11 +8,14 @@
 
 O ViaCep Android App é uma aplicação desenvolvida em Kotlin que consome a API pública ViaCep para buscar informações de endereços brasileiros a partir do CEP informado pelo usuário. A aplicação utiliza a arquitetura MVC (Model-View-Controller) para organizar o código e facilitar a manutenção e escalabilidade.
 
+### GIF de Demonstração
 ![GIF do projeto](https://github.com/rfemina/Via-Cep/blob/master/viaCep-gif.gif)
 
-[![Assista ao vídeo]([https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white))]([https://youtu.be/dQw4w9WgXcQ](https://youtu.be/9In1lbcDZew))
+### YouTube
+[![Assista ao vídeo](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/9In1lbcDZew)
 
-![Download Arquivo APK](https://github.com/rfemina/Via-Cep/blob/master/ViaCep.apk)
+### Arquivo APK
+[![Arquivo APK](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/rfemina/Via-Cep/blob/master/ViaCep.apk)
 
 ## Índice
 
