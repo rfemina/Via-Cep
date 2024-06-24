@@ -110,9 +110,9 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-##Contato
+## Contato
 
-Nome: Rafael Luiz Femina
-E-mail: rfemina2@gmail.com
-Link do Projeto: https://github.com/rfemina/Via-Cep
-Linkedin: https://www.linkedin.com/in/rafael-femina-0628692a0/
+    - Nome: Rafael Luiz Femina
+    - E-mail: rfemina2@gmail.com
+    - Link do Projeto: https://github.com/rfemina/Via-Cep
+    - Linkedin: https://www.linkedin.com/in/rafael-femina-0628692a0/
