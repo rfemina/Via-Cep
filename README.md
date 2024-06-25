@@ -34,8 +34,8 @@ Siga os passos abaixo para configurar e rodar o projeto em sua máquina local.
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/via-cep-android.git
-    cd via-cep-android
+    git clone https://github.com/seu-usuario/Via-Cep.git
+    cd Via-Cep
     ```
 
 2. Abra o projeto no Android Studio:
